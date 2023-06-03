@@ -1,5 +1,4 @@
-# TopDeck_V3
-Top Deck: Card storage app
+# TopDeck
 
 Top Deck is a virtual card storage Android application
 
